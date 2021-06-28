@@ -81,4 +81,6 @@ public class Model {
 	public Set<Vertice> getVertici() {
 		return grafo.vertexSet();
 	}
+	
+	
 }
